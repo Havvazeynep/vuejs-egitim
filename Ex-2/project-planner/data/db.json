@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Deneme 1",
       "details": "Acıyı seven, arayan ve ona sahip olmak isteyen hiç kimse yoktur. Nedeni basit. Çünkü o acıdır...",
-      "complete": "true"
+      "complete": true
     },
     {
       "id": 2,
