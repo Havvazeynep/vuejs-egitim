@@ -1,35 +1,46 @@
 {
-    "projects": [
-        {
-            "id": 1,
-            "title": "Deneme 1",
-            "details": "Acıyı seven, arayan ve ona sahip olmak isteyen hiç kimse yoktur. Nedeni basit. Çünkü o acıdır...",
-            "complete": "true"
-        },
-        {
-            "id": 2,
-            "title": "Deneme 2",
-            "details": "Lorem Ipsum, kısaca Lipsum, masaüstü yayıncılık ve basın yayın sektöründe kullanılan taklit yazı bloğu olarak tanımlanır. Lipsum, oluşturulacak şablon ve taslaklarda içerik yerine geçerek yazı bloğunu doldurmak için kullanılır.",
-            "complete": "true"
-        },
-        {
-            "id": 3,
-            "title": "Deneme 3",
-            "details": "kısaca Lipsum, masaüstü yayıncılık ve basın yayın sektöründe kullanılan taklit yazı bloğu olarak tanımlanır. Lipsum, oluşturulacak şablon ve taslaklarda içerik yerine geçerek yazı bloğunu doldurmak için kullanılır.",
-            "complete": "true"
-        },
-        {
-            "id": 4,
-            "title": "Deneme 4",
-            "details": "Lorem Ipsum, kısaca Lipsum, masaüstü yayıncılık ve basın yayın sektöründe kullanılan taklit yazı bloğu olarak tanımlanır.",
-            "complete": "true"
-        },
-        {
-            "id": 5,
-            "title": "Deneme 5",
-            "details": "Lipsum, oluşturulacak şablon ve taslaklarda içerik yerine geçerek yazı bloğunu doldurmak için kullanılır.",
-            "complete": "false"
-        }
-    ]
-    
+  "projects": [
+    {
+      "id": 1,
+      "title": "Deneme 1",
+      "details": "Acıyı seven, arayan ve ona sahip olmak isteyen hiç kimse yoktur. Nedeni basit. Çünkü o acıdır...",
+      "complete": "true"
+    },
+    {
+      "id": 2,
+      "title": "Deneme 2",
+      "details": "Lorem Ipsum, kısaca Lipsum, masaüstü yayıncılık ve basın yayın sektöründe kullanılan taklit yazı bloğu olarak tanımlanır. Lipsum, oluşturulacak şablon ve taslaklarda içerik yerine geçerek yazı bloğunu doldurmak için kullanılır.",
+      "complete": "true"
+    },
+    {
+      "id": 3,
+      "title": "Deneme 3",
+      "details": "kısaca Lipsum, masaüstü yayıncılık ve basın yayın sektöründe kullanılan taklit yazı bloğu olarak tanımlanır. Lipsum, oluşturulacak şablon ve taslaklarda içerik yerine geçerek yazı bloğunu doldurmak için kullanılır.",
+      "complete": "true"
+    },
+    {
+      "id": 4,
+      "title": "Deneme 4",
+      "details": "Lorem Ipsum, kısaca Lipsum, masaüstü yayıncılık ve basın yayın sektöründe kullanılan taklit yazı bloğu olarak tanımlanır.",
+      "complete": false
+    },
+    {
+      "id": 5,
+      "title": "Deneme 5",
+      "details": "Lipsum, oluşturulacak şablon ve taslaklarda içerik yerine geçerek yazı bloğunu doldurmak için kullanılır.",
+      "complete": false
+    },
+    {
+      "title": "Deneme 6",
+      "details": "Bu bir deneme postudur",
+      "complete": false,
+      "id": 6
+    },
+    {
+      "title": "deneme 7",
+      "details": "merhaba bu bir denemedir",
+      "complete": false,
+      "id": 7
+    }
+  ]
 }
